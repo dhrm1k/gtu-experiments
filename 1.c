@@ -12,7 +12,7 @@ int main() {
 
   
   double num2;
-  printf("Enter number1: ");
+  printf("Enter number2: ");
   scanf("%lf", &num2);
   
   char op;
@@ -29,7 +29,7 @@ int main() {
     printf("Your answer is: %lf", num1 * num2);
   }
   else if (op == '/') {
-    printf("Your answer is: %lf", num1 / num2);
+    printf("%lf", (double)num1 / (double)num2);
   }
   else {
     printf("Such operator doesn't exist");
