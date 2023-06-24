@@ -1,2 +1,2 @@
 # gtu-experiments
-Contains psets of GTU semester 1 subject: Programming for Problem Solving (3110003)
+Contains psets of GTU semester 1 subject: Programming for Problem Solving (3110003). Here's the link to the [experiments](https://s3-ap-southeast-1.amazonaws.com/gtusitecirculars/Syallbus/3110003.pdf).
